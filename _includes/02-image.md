@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Bradley in Tokyo](https://photos.google.com/search/me/photo/AF1QipMk9atY5zdIj487Yy8UyWcItf3ksPBhbHJ8q4fZ)
